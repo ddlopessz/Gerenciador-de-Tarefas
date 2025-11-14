@@ -2,7 +2,7 @@
 
 Descrição:
 
-Gerenciador de tarefas, por Dereck Lopes Gomez
+Gerenciador de tarefas, por Dereck Lopes
 
 Esta aplicação foi desenvolvida para gerenciar tarefas, conectando-se a um banco de dados MySQL através do PhpMyAdmin usando xampp. Ela interage com as tarefas no banco de dados diretamente, permitindo a criação, edição, conclusão e visualização de suas tarefas.
 
@@ -62,5 +62,6 @@ Como executar:
 - rode 'npm install readline-sync'
 
 4 - Rode o programa, com o comando 'node index.js'
+
 
 -----
