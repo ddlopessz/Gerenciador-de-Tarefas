@@ -1,4 +1,4 @@
-//Por Dereck Lopes Gomez
+//Por Dereck Lopes
 
 const readline = require("readline-sync"); //requer a biblioteca readline, que receberá o input do usuário no terminal
 const mysql = require("mysql2/promise"); //requer o mysql2, que utiliza promises em vez de callbacks manuais
@@ -173,4 +173,5 @@ async function main() {
                 break;
         }
     }
+
 }
